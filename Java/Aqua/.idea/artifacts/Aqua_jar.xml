@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Aqua:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="Aqua.jar">
+      <element id="module-output" name="Aqua" />
+    </root>
+  </artifact>
+</component>
