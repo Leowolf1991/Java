@@ -21,38 +21,44 @@ public class SortBubbles
         index =0;
     }
 
-    /*** An example of a method - replace this comment with your own** @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
-     */
-
-    public void fillingArray(long value) //method for fill array
+    //method for fill array
+    public void fillingArray(long value)
     {
-        // put your code here
         massive[index] = value;
         index ++;
     }
     /*******************************************************************************************/
-    public void printArray() //method for print array
+
+    //method for print array
+    public void printArray()
     {
         for(int i=0;i<index;i++)
         System.out.print(massive[i] + " ");
     }
     /*******************************************************************************************/
-    public void sortingArray() //method for bubbles sort algorithm
+
+    //method for bubbles sort algorithm
+    public int sortingArray()
     {
+        int count =0;
         for(int out=index-1;out>=1;out--) //outside cyrcle
         for(int in = 0; in<out; in++) //inside cyrcle
-            if(massive[in]>massive[in + 1])
-            {
-            long buffer = massive[in];
-            massive[in]= massive[in + 1];
-            massive[in + 1] = buffer;
+        {
+            count ++;
+            if (massive[in] > massive[in + 1]) {
+                long buffer = massive[in];
+                massive[in] = massive[in + 1];
+                massive[in + 1] = buffer;
+            }
         }
+        return count;
     }
     /*******************************************************************************************/
+
+    //Main method
     public static void main(String[] args)
     {
-        int size =0;
+        int size =0, counter =0;
         Scanner scan = new Scanner(System.in);
         System.out.println("Please input size of array: ");
         size = scan.nextInt(); //input size of array
@@ -62,9 +68,11 @@ public class SortBubbles
         System.out.println("Array before bubble sort");
         array.printArray();
         System.out.println();
-        System.out.println("Array past bubble sort");
-        array.sortingArray(); // it's our method bubbles sort array
+        System.out.println("Array after bubble sort");
+        counter = array.sortingArray(); // it's our method bubbles sort array
         array.printArray();
-        
+        System.out.println("");
+        System.out.println("Quantity of replace:");
+        System.out.println(counter);
     }
 }

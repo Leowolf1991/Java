@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84cb4d00-33aa-41d3-afd4-f3ca5149c713" name="Default" comment="" />
+    <list default="true" id="7d19b185-61da-488c-9407-25c03ecfd46d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,21 +12,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SortBubbles.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SortBubbles.java">
+      <file leaf-file-name="SortInsert.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            <state relative-caret-position="102">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SortBubbles.java" />
+        <option value="$PROJECT_DIR$/src/SortInsert.java" />
       </list>
     </option>
   </component>
@@ -48,16 +55,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Sort_Bubbles" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sort_Bubbles" type="462c0819:PsiDirectoryNode" />
+              <item name="SortInsert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SortInsert" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Sort_Bubbles" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sort_Bubbles" type="462c0819:PsiDirectoryNode" />
+              <item name="SortInsert" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SortInsert" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -65,8 +74,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -88,9 +95,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="SRTBUBBLES" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="SortBubbles" />
-      <module name="Sort_Bubbles" />
+    <configuration name="SortInsert" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SortInsert" />
+      <module name="SortInsert" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -140,28 +147,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="84cb4d00-33aa-41d3-afd4-f3ca5149c713" name="Default" comment="" />
-      <created>1540934903608</created>
+      <changelist id="7d19b185-61da-488c-9407-25c03ecfd46d" name="Default" comment="" />
+      <created>1540977211848</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540934903608</updated>
-      <workItem from="1540934905902" duration="63000" />
-      <workItem from="1540976567781" duration="455000" />
-      <workItem from="1540978981570" duration="34000" />
-      <workItem from="1540998761043" duration="15000" />
-      <workItem from="1541000875401" duration="435000" />
-      <workItem from="1541001479540" duration="463000" />
-      <workItem from="1541009888365" duration="701000" />
-      <workItem from="1541012468987" duration="241000" />
+      <updated>1540977211848</updated>
+      <workItem from="1540977214667" duration="1748000" />
+      <workItem from="1540979024566" duration="2052000" />
+      <workItem from="1540997300090" duration="1444000" />
+      <workItem from="1540998786072" duration="2083000" />
+      <workItem from="1541001317645" duration="157000" />
+      <workItem from="1541001949435" duration="1447000" />
+      <workItem from="1541010595990" duration="1549000" />
+      <workItem from="1541012715684" duration="568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2407000" />
+    <option name="totallyTimeSpent" value="11048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -172,8 +178,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -183,8 +189,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968652" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5768025" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -201,63 +207,71 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortInsert.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SortBubbles.java">
+    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="69" column="29" lean-forward="true" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortBubbles.java">
+    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="66" column="39" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+        <state relative-caret-position="690">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortBubbles.java">
+    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="66" column="39" selection-start-line="66" selection-start-column="39" selection-end-line="66" selection-end-column="39" />
+        <state relative-caret-position="645">
+          <caret line="43" column="69" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortBubbles.java">
+    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="930">
+          <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortBubbles.java">
+    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="525">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortBubbles.java">
+    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortBubbles.java">
+    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="570">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortBubbles.java">
+    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="102">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
