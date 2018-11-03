@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d19b185-61da-488c-9407-25c03ecfd46d" name="Default" comment="" />
+    <list default="true" id="6c6e6af0-6376-49bc-ad12-6b1ea26161f6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SortInsert.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
+      <file leaf-file-name="Sort_Selections.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sort_Selections.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="46" selection-end-line="30" />
+            <state relative-caret-position="-660">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -33,7 +33,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SortInsert.java" />
+        <option value="$PROJECT_DIR$/src/Sort_Selections.java" />
       </list>
     </option>
   </component>
@@ -55,25 +55,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SortInsert" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SortInsert" type="462c0819:PsiDirectoryNode" />
+              <item name="SortSelection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SortSelection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SortInsert" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SortInsert" type="462c0819:PsiDirectoryNode" />
+              <item name="SortSelection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SortSelection" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -95,9 +95,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="SortInsert" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="SortInsert" />
-      <module name="SortInsert" />
+    <configuration name="Sort_selections" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Sort_Selections" />
+      <module name="SortSelection" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -147,25 +147,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7d19b185-61da-488c-9407-25c03ecfd46d" name="Default" comment="" />
-      <created>1540977211848</created>
+      <changelist id="6c6e6af0-6376-49bc-ad12-6b1ea26161f6" name="Default" comment="" />
+      <created>1541149472889</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540977211848</updated>
-      <workItem from="1540977214667" duration="1748000" />
-      <workItem from="1540979024566" duration="2052000" />
-      <workItem from="1540997300090" duration="1444000" />
-      <workItem from="1540998786072" duration="2083000" />
-      <workItem from="1541001317645" duration="157000" />
-      <workItem from="1541001949435" duration="1447000" />
-      <workItem from="1541010595990" duration="1549000" />
-      <workItem from="1541012715684" duration="1420000" />
-      <workItem from="1541149097726" duration="322000" />
+      <updated>1541149472889</updated>
+      <workItem from="1541149475563" duration="1868000" />
+      <workItem from="1541158991039" duration="2276000" />
+      <workItem from="1541227017402" duration="359000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12222000" />
+    <option name="totallyTimeSpent" value="4503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
@@ -173,6 +167,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -180,7 +175,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3275862" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291536" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -191,14 +186,13 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5768025" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968652" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,70 +203,28 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
+    <entry file="file://$PROJECT_DIR$/src/Sort_Selections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        <state relative-caret-position="510">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
+    <entry file="file://$PROJECT_DIR$/src/Sort_Selections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="555">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
+    <entry file="file://$PROJECT_DIR$/src/Sort_Selections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="69" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="39" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortInsert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="46" selection-end-line="30" />
+        <state relative-caret-position="-660">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
